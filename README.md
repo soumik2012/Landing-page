@@ -8,3 +8,5 @@ create a landing page with
 * about section and
 * social media handles
 ----
+
+# who usses this repo can make a proper landing page with little knowledge of programming
