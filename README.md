@@ -1,23 +1,16 @@
-# Landing-page
+Landing-page ## create a landing page with
+- A landing page as main page
+- A section of photos captured by me
+- My experience
+- A resume page
+- About section and
+- Social media handles
 
-## create a landing page with
-
-- a landing page with main page
-- a section of photos captured by me
-- my experiance
-- a resume page
-- about section and
-- social media handles
-
----
-
-# who usses this repo can make a proper landing page with little knowledge of programming
-
+--- # Anyone can use this repo and can make a proper landing page with little knowledge of programming
 This project was bootstrapped with [Landing Page App](https://github.com/PriyanshTri/Landing-page.git).
-
 ## Available Scripts
-
 In the project directory, you can run:
+###
 
 ### `npm start`
 
