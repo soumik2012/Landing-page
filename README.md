@@ -72,6 +72,6 @@ $ git push origin master
 <br><br>
 # Learn More
 
-You can learn more in the [W3Schools HTML5 tutorial](https://www.w3schools.com/html/).
+You can learn more in the [W3Schools HTML5 tutorial](https://www.w3schools.com/html/) and [HTML CSS](https://www.codecademy.com/catalog/language/html-css).
 
 
