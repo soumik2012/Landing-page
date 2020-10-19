@@ -1,3 +1,5 @@
+![alt text](https://venngage-wordpress.s3.amazonaws.com/uploads/2018/04/Landing-Page-Examples.png)
+
 # Landing Page
 ## create a landing page with
 - A landing page as main page
