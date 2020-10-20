@@ -1,15 +1,15 @@
-# Landing Page
-## create a landing page with
-- A landing page as main page
-- A section of photos captured by me
-- My experience
-- A resume page
+# Landing Page 
+## create a landing page with <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+- A landing page as main page :page
+- A section of photos captured by me 📷
+- My experience  📶 
+- A resume page 📑 
 - About section and
-- Social media handles
+- Social media handles 📱
 
-## Anyone can use this repo and can make a proper landing page with little knowledge of programming
-This project was bootstrapped with [Landing Page App](https://github.com/PriyanshTri/Landing-page.git).
-## Available Scripts
+## Anyone can use this repo and can make a proper landing page with little knowledge of programming :
+This project was bootstrappedwith [Landing Page App](https://github.com/PriyanshTri/Landing-page.git).
+## Available Scripts 🧾
 In the project directory, you can run:
 ###
 
@@ -34,7 +34,7 @@ You will also see any lint errors in the console.
 - That's it, We are done!!
 
 
-# How to Sync Forked Repo from Upstream Repo
+# How to Sync Forked Repo from Upstream Repo 🤷‍♂️
 
 
 1. Add the original repository as an upstream repository
