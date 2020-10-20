@@ -1,24 +1,13 @@
-
 # Landing Page 
 ## create a landing page with <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 - A landing page as main page :page
 - A section of photos captured by me 📷
 - My experience  📶 
 - A resume page 📑 
-=======
-![alt text](https://venngage-wordpress.s3.amazonaws.com/uploads/2018/04/Landing-Page-Examples.png)
-
-# Landing Page
-## create a landing page with
-- A landing page as main page
-- A section of photos captured by me
-- My experience
-- A resume page
-
 - About section and
 - Social media handles 📱
 
-## Anyone can use this repo and can make a proper landing page with little knowledge of programming :
+## Anyone can use this repo and can make a proper landing page with little knowledge of programming 👨‍💻 :
 This project was bootstrapped with [Landing Page App](https://github.com/PriyanshTri/Landing-page.git).
 ## Available Scripts 🧾
 In the project directory, you can run:
